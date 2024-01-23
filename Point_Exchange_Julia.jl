@@ -16,7 +16,8 @@
 ## ============================================================================================
 ## change the working directory
 print(pwd())
-cd("C:/Users/Dr. Stephen J. Walsh/OneDrive - USU/Desktop/julia_hypercube_v0.0")
+# change directory if needed
+cd("")
 
 ## required Julia packages
 using Distributions, LinearAlgebra, Random,  DataFrames, CSV, Plots
